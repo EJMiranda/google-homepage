@@ -13,7 +13,7 @@ HTML & CSS.
 Description:
 Introductory assignment for evaluating basic knowledge of HTML and CSS:
 - Separation of concerns.
-- Structure with <div> and <span>.
+- Structure with div and span.
 - Layout (Position, Display, Float and Clear).
 - Horizontal menus.
 - Mouse events.
@@ -21,7 +21,7 @@ Introductory assignment for evaluating basic knowledge of HTML and CSS:
 
 Additional notes:
 - Code style and formatting mainly from Google's guidelines, for reference.
-- Elements outside of the scope of the curriculum were added with <img>.
+- Elements outside of the scope of the curriculum were added with img.
 
 Personal takeaway:
 - Take a few hours to properly understand these properties:
