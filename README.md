@@ -1,11 +1,9 @@
-From The Odin Project's [curriculum]
-(http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+Name: Google Homepage
 
-Name: 
-Google Homepage
+From The Odin Project's Curriculum: http://www.theodinproject.com/courses/web-development-101/lessons/html-css
 
 Description:
-- Replicate Google's main landing page and a page with search results.
+- Replicate Google's homepage and a page with search results.
 - Introductory assignment for evaluating basic knowledge of HTML and CSS:
   - Separation of concerns.
   - Structure with div and span.
@@ -13,7 +11,7 @@ Description:
   - Horizontal menus.
   - Mouse events.
   - Classes and ID.
-- Code style and formatting mainly from Google's guidelines, for reference.
-- Elements outside of the scope of the curriculum were added with img.
+- Code style and formatting mainly from Google's guidelines.
+- Some elements were added with img.
 
 Quote: "I am the danger" - Walter White
