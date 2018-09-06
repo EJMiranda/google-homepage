@@ -3,6 +3,7 @@ Name: Google Homepage
 From The Odin Project's Curriculum: http://www.theodinproject.com/courses/web-development-101/lessons/html-css
 
 Description:
+- From The Odin Project's [Curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css).
 - Replicate Google's homepage and a page with search results.
 - Introductory assignment for evaluating basic knowledge of HTML and CSS:
   - Separation of concerns.
