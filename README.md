@@ -16,4 +16,4 @@
   - Classes and ID.
 - Some elements were added with `<img>`.
 
-> **_"I am the danger"_** - Walter White
+> **_"I am the danger."_** - Walter White
